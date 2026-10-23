@@ -1,1 +1,1 @@
-printf("%d",x);
+printf("%d",n);
